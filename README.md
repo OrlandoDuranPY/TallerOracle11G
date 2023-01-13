@@ -17,4 +17,4 @@ Hola, si estás aquí es porque seguramente te inscribiste al taller previamente
 ## Schema HR
 Para crear el Schema HR, lo primero que tenemos que hacer es crear una conexión con un rol *SYSDBA*.
 Dentro de SQL Developer presionamos en "Nueva Conexión".
-![Nueva Conexion](https://drive.google.com/file/d/1R44HKPLjWCT9_LDq1ilL3jqIC4SKOcyG/view?usp=share_link)
+![Nueva Conexion](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/img/Crear%20conexion.png)
