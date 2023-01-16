@@ -3,16 +3,15 @@ Hola, si estás aquí es porque seguramente te inscribiste al taller previamente
 
 ## Prácticas Incluidas:
 
- - Escritura de sentencias SQL básicas.
- - Restricción y ordenación de datos.
- - Funciones de una sola fila.
- - Uso de funciones de conversiones y expresiones condicionales.
- - Agregado de datos utilizando funciones de grupo.
- - Visualización de datos de varias tablas.
- - Subconsultas.
- - Manipulación de datos.
- - Creación y gestión de tablas.
- - 
+ - [Escritura de sentencias SQL básicas.](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/Practicas/Jos%C3%A9%20Orlando%20Dur%C3%A1n%20P%C3%A9rez%20-%20Pr%C3%A1ctica%201%20Taller%20de%20Oracle.pdf)
+ - [Restricción y ordenación de datos.](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/Practicas/Jos%C3%A9%20Orlando%20Dur%C3%A1n%20P%C3%A9rez%20-%20Pr%C3%A1ctica%202%20Taller%20de%20Oracle.pdf)
+ - [Funciones de una sola fila.](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/Practicas/Jos%C3%A9%20Orlando%20Dur%C3%A1n%20P%C3%A9rez%20-%20Pr%C3%A1ctica%203%20Taller%20de%20Oracle.pdf)
+ - [Uso de funciones de conversiones y expresiones condicionales.](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/Practicas/Jos%C3%A9%20Orlando%20Dur%C3%A1n%20P%C3%A9rez%20-%20Pr%C3%A1ctica%204%20Taller%20de%20Oracle.docx.pdf)
+ - [Agregado de datos utilizando funciones de grupo.](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/Practicas/Jos%C3%A9%20Orlando%20Dur%C3%A1n%20P%C3%A9rez%20-%20Pr%C3%A1ctica%205%20Taller%20de%20Oracle.pdf)
+ - [Visualización de datos de varias tablas.](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/Practicas/Jos%C3%A9%20Orlando%20Dur%C3%A1n%20P%C3%A9rez%20-%20Pr%C3%A1ctica%206%20Taller%20de%20Oracle.docx.pdf)
+ - [Subconsultas.](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/Practicas/Jos%C3%A9%20Orlando%20Dur%C3%A1n%20P%C3%A9rez%20-%20Pr%C3%A1ctica%207%20Taller%20de%20Oracle.docx.pdf)
+ - [Manipulación de datos.](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/Practicas/Jos%C3%A9%20Orlando%20Dur%C3%A1n%20P%C3%A9rez%20-%20Pr%C3%A1ctica%208%20Taller%20de%20Oracle.pdf)
+ - [Creación y gestión de tablas.](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/Practicas/Jos%C3%A9%20Orlando%20Dur%C3%A1n%20P%C3%A9rez%20-%20Pr%C3%A1ctica%209%20Taller%20de%20Oracle.pdf)
   
 ## Schema HR
 1. Para crear el Schema HR, lo primero que tenemos que hacer es crear una conexión con un rol *SYSDBA*.
@@ -50,3 +49,4 @@ Cuando completes esos 4 campos, presiona el botón *Probar* y si el Estado es Co
 6. Refrescarmos presionando en botón de flecas azules y ya deberían aparecernos las tablas que acabamos de crear.
 
 ![Refrescar](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/img/Refrescar.png)
+
