@@ -1,5 +1,5 @@
 # Taller Oracle 11g, Universidad Autónoma de Querétaro
-Hola, si estás aquí es porque seguramente te inscribiste al taller previamente mencionado. En este repositorio se encuentran las 10 prácticas (contestadas) correspondientes al curso, no solo eso, también vas a encontrar el script sql de todas las prácticas. Como material extra, también te dejo un par de scripts para crear el *Schema HR* de manera rápida, solamente necesitas recordar la contraseña que pusiste al momento de instalar Oracle XE.
+Hola, si estás aquí es porque seguramente te inscribiste al taller previamente mencionado. En este repositorio se encuentran las 9 prácticas (contestadas) correspondientes al curso, no solo eso, también vas a encontrar el script sql de todas las prácticas. Como material extra, también te dejo un par de scripts para crear el *Schema HR* de manera rápida, solamente necesitas recordar la contraseña que pusiste al momento de instalar Oracle XE.
 
 ## Prácticas Incluidas:
 
