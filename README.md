@@ -44,4 +44,8 @@ Cuando completes esos 4 campos, presiona el botón *Probar* y si el Estado es Co
 ![Usuario HR](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/img/HR.png)
 
 5. Damos doble clic en la conexión HR que ahora aparece en el panel de conexiones, copia y pega el contenido del script [tablas.sql](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/Crear%20Schema%20HR/tablas.sql), dentro de este script se encuentran todas las tablas del usuario HR; una vez que peguemos el contenido, volvemos a presionar F5 para ejecutar todo el script o presionamos el botón *Ejecutar Script*.
+
 ![Tablas](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/img/Tablas%20HR.png)
+
+6. Refrescarmos presionando en botón de flecas azules y ya deberían aparecernos las tablas que acabamos de crear.
+![Refrescar](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/img/Refrescar.png)
