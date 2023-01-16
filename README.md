@@ -48,4 +48,5 @@ Cuando completes esos 4 campos, presiona el botón *Probar* y si el Estado es Co
 ![Tablas](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/img/Tablas%20HR.png)
 
 6. Refrescarmos presionando en botón de flecas azules y ya deberían aparecernos las tablas que acabamos de crear.
+
 ![Refrescar](https://github.com/OrlandoDuranPY/TallerOracle11G/blob/main/img/Refrescar.png)
